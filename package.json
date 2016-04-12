@@ -25,12 +25,12 @@
   },
   "main": "ng2-translate.js",
   "typings": "./ng2-translate.d.ts",
-  "homepage": "https://github.com/ocombe/ng2-translate",
+  "homepage": "https://github.com/tobakkkk/ng2-translate",
   "peerDependencies": {
     "angular2": ">= 2.0.0-beta.10",
     "es6-shim": ">= 0.33.3",
     "reflect-metadata": ">= 0.1.2",
-    "rxjs": ">= 5.0.0-beta.2",
+    "rxjs": ">= 5.0.0-beta.4",
     "zone.js": ">= 0.6.4"
   },
   "devDependencies": {
